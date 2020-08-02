@@ -1,0 +1,24 @@
+body {
+  background-color: pink;
+  font-size: 18px;
+}
+div {
+  height: 200px;
+  width: 200px;
+  color: red;
+}
+div p {
+  color: yellow;
+}
+div p:hover {
+  color: blue;
+}
+.nav .logo {
+  color: goldenrod;
+}
+.nav::before {
+  content: "学习哦哦哦哦哦";
+}
+p {
+  color: red;
+}
